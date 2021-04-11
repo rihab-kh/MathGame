@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: e0f798b76d33982449945edf93dd6308
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 83501-mobile-text-button-yellow-game-user-interface_0
+    21300002: 83501-mobile-text-button-yellow-game-user-interface_1
+    21300004: 83501-mobile-text-button-yellow-game-user-interface_2
+    21300006: 83501-mobile-text-button-yellow-game-user-interface_3
+    21300008: 83501-mobile-text-button-yellow-game-user-interface_4
+    21300010: 83501-mobile-text-button-yellow-game-user-interface_5
+    21300012: 83501-mobile-text-button-yellow-game-user-interface_6
+    21300014: 83501-mobile-text-button-yellow-game-user-interface_7
+    21300016: 83501-mobile-text-button-yellow-game-user-interface_8
+    21300018: 83501-mobile-text-button-yellow-game-user-interface_9
+    21300020: 83501-mobile-text-button-yellow-game-user-interface_10
+    21300022: 83501-mobile-text-button-yellow-game-user-interface_11
+    21300024: 83501-mobile-text-button-yellow-game-user-interface_12
+    21300026: 83501-mobile-text-button-yellow-game-user-interface_13
+    21300028: 83501-mobile-text-button-yellow-game-user-interface_14
+    21300030: 83501-mobile-text-button-yellow-game-user-interface_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 545
+        width: 222
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86dd0cd1303c914cb8b2b494a043c10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 545
+        width: 222
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6adabdc69a0f4bbb86bb690092d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 545
+        width: 222
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c4eb57acc2284a890f1b24d34c817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 307
+        width: 436
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607f63fa15114564faaf8fa78669a57d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 376
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688cf7cee22ae09409fed50463abc4c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_5
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 376
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764a8e74595c1304cad65e9f85d08273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 376
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb166bc83821b07429dc4dd8ea29861c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_7
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 371
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122f50997470c94692e49dbaf3620ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 142
+        width: 412
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf781c2536953c4480a4043171c8a39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_9
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 216
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2686edd2dc8227c488c9cc7e2bce3a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_10
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 216
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2213ac609d749b4abd735540ce1c005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_11
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 216
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab34ac2eec8bd14a881845acefd7efa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_12
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 216
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87208d342a489ce4293671cfc4138348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 440
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0245b7241ba2448c68c2889bc39a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 56
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9647c53e44381ca4fa80d241a6c0c340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83501-mobile-text-button-yellow-game-user-interface_15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 56
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aa592876c122545b8cbeb9f7d1d5fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 05a9108873182f546a35bd83a34f5093
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
